@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/temez26/temez26/blob/main/assets/github-banner.png" alt="GitHub Banner">
-</div>
-
 ## Hi there 👋
 
 I'm Teemu Kalmari, a student at Lab Amk, currently studying software engineering. Welcome to my GitHub profile!
