@@ -21,8 +21,8 @@ I'm Teemu Kalmari, a student at Lab Amk, currently studying software engineering
 
 ### 📫 How to reach me
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/teemu-kalmari/).
-- Send me an email at teemu.kalmari@example.com.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/teemu-kalmari-755469169/).
+- Send me an email at [teemukalmari@gmail.com](mailto:teemukalmari@gmail.com).
 
 ### 🌟 Fun Facts
 
