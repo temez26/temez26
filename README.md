@@ -1,42 +1,43 @@
 <div align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/github-banner.png" alt="GitHub Banner">
+  <img src="https://github.com/temez26/temez26/blob/main/assets/github-banner.png" alt="GitHub Banner">
 </div>
 
 ## Hi there 👋
 
-I'm [Your Name](https://your-website.com/), a passionate software developer from [Your Location](https://your-location.com/). Welcome to my GitHub profile!
+I'm Teemu Kalmari, a student at Lab Amk, currently studying software engineering. Welcome to my GitHub profile!
 
 ### 🌱 I'm currently working on
 
-- Building awesome web applications with React
-- Learning new programming languages
+- Building awesome web applications with React, CSS, HTML, and JavaScript.
+- Exploring the world of software development with C++ and Python.
+- Staying fit and enjoying a good cup of coffee ☕.
 
-### 💼 My skills
+### 💼 My Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
+- **Frontend:** React, CSS, HTML, JavaScript
+- **Backend:** Node.js
+- **Languages:** C++, Python, Java (a little bit)
 - **Other:** Git, RESTful APIs
 
 ### 📫 How to reach me
 
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-linkedin-profile)
-- Email: your.email@example.com
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/teemu-kalmari/).
+- Send me an email at teemu.kalmari@example.com.
 
-### 🌟 Fun facts
+### 🌟 Fun Facts
 
-- I love hiking in the mountains.
-- I'm a coffee addict ☕
+- I'm passionate about web development and creating engaging user experiences.
+- I enjoy a strong cup of coffee to kickstart my day.
+- When not coding, you can find me at the gym, staying active.
 
 ### 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark)
+![Teemu Kalmari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=temez26&show_icons=true&count_private=true&theme=dark)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temez26&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/temez26/count.svg)
