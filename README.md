@@ -11,7 +11,7 @@ I'm Teemu Kalmari, a student at Lab Amk, currently studying software engineering
 ### 💼 My Skills
 
 - **Frontend:** React, CSS, HTML, JavaScript
-- **Backend:** Node.js
+- **Backend:** JavaScript
 - **Languages:** C++, Python, Java (a little bit)
 - **Other:** Git, RESTful APIs
 
