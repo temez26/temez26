@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Teemu Kalmari, a student at Lab Amk, currently studying software engineering. Welcome to my GitHub profile!
+I'm Teemu Kalmari, a student at Lab university of applied sciences, currently studying software engineering. Welcome to my GitHub profile!
 
 ### 🌱 I'm currently working on
 
