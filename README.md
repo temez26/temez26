@@ -12,7 +12,7 @@ I'm Teemu Kalmari, a student at Lab university of applied sciences, currently st
 
 - **Frontend:** React, CSS, HTML, JavaScript
 - **Backend:** JavaScript(Node,Deno), Php
-- **Languages:** C++, Python, Java (a little bit)
+- **Languages:** C++, C#, Python, Java (a little bit)
 - **Other:** Git, RESTful APIs
 
 ### 📫 How to reach me
