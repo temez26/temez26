@@ -10,7 +10,7 @@ I'm Teemu Kalmari, a student at Lab university of applied sciences, currently st
 
 ### 💼 My Skills
 
-- **Frontend:** React, CSS, HTML, JavaScript
+- **Frontend:** React, Astro, Svelte, CSS, HTML, JavaScript
 - **Backend:** JavaScript(Node,Deno), Php
 - **Languages:** C++, C#, Python, Java (a little bit)
 - **Other:** Git, RESTful APIs
