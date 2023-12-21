@@ -4,16 +4,17 @@ I'm Teemu Kalmari, a student at Lab university of applied sciences, currently st
 
 ### 🌱 I'm currently working on
 
-- Building awesome web applications with React, CSS, HTML, and JavaScript.
-- Exploring the world of software development with C++ and Python.
+- Building awesome web applications with **React**, **Astro**, **Svelte**, **CSS**, **HTML**, and **JavaScript**.
+- Exploring the world of software development with **C++**, **C#**, **Python**, and a bit of **Java**.
 - Staying fit and enjoying a good cup of coffee ☕.
 
 ### 💼 My Skills
 
-- **Frontend:** React, Astro, Svelte, CSS, HTML, JavaScript
-- **Backend:** JavaScript(Node,Deno), Php
-- **Languages:** C++, C#, Python, Java (a little bit)
-- **Other:** Git, RESTful APIs
+- **Frontend Development:** Proficient in React, Astro, and Svelte frameworks. Skilled in using CSS, HTML, and JavaScript to create dynamic and responsive user interfaces.
+- **Backend Development:** Experienced in using JavaScript (Node.js and Deno) and PHP for server-side programming.
+- **Database Management:** Proficient in PostgreSQL, MySQL, and MariaDB for managing and manipulating databases.
+- **Programming Languages:** Proficient in C++, C#, and Python. Basic knowledge of Java.
+- **Other Skills:** Proficient in using Git for version control. Experienced in designing and integrating RESTful APIs.
 
 ### 📫 How to reach me
 
