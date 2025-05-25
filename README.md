@@ -19,6 +19,8 @@ I'm a Software Engineering graduate from **LAB University of Applied Sciences** 
 
 ---
 
+### 💼 Skills & Tools
+
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)  
 
