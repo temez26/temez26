@@ -43,8 +43,8 @@ I'm a Software Engineering graduate from **LAB University of Applied Sciences** 
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Teemu%20Kalmari-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/teemu-kalmari-755469169/)  
-📬 [teemukalmari@gmail.com](mailto:teemukalmari@gmail.com)
+🔗 [![LinkedIn](https://img.shields.io/badge/-Teemu%20Kalmari-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/teemu-kalmari-755469169/) — Connect with me on LinkedIn  
+📧 [Email me](mailto:teemukalmari@gmail.com)
 
 ---
 
