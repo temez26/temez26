@@ -55,8 +55,9 @@ I'm a Software Engineering graduate from **LAB University of Applied Sciences** 
 **Other Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat)  
-![Blue Prism](https://img.shields.io/badge/-Blue%20Prism-00BFFF?style=flat)  
-![UiPath](https://img.shields.io/badge/-UiPath-F88900?style=flat)
+![Blue Prism](https://img.shields.io/badge/-Blue%20Prism-00BFFF?logo=blueprism&logoColor=white&style=flat)  
+![UiPath](https://img.shields.io/badge/-UiPath-F88900?logo=uipath&logoColor=white&style=flat)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
 ---
 
