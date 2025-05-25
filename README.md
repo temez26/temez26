@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Teemu Kalmari 👋</h1>
-<p align="center">💻 Full-Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🤖 Automation Explorer</p>
+<p align="center">🎓 Bachelor of Engineering | 💻 Software Engineer | 🌐 Full-Stack Developer</p>
 
 ---
 
@@ -42,7 +42,8 @@ I'm a Software Engineering graduate from **LAB University of Applied Sciences** 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
@@ -83,6 +84,6 @@ I'm a Software Engineering graduate from **LAB University of Applied Sciences** 
 ### ✨ Fun Facts
 
 - 🎵 My thesis focused on building **Bmusic**, a self-hosted music streaming web app for home servers.
-- ☕ I prefer **lime** over lemon in marinades.
-- 🧠 I love automating tasks and solving tech challenges.
+- 💡 I enjoy creating full-stack solutions from scratch—whether it’s a tool for personal use or automating internal workflows.
+- 🕹️ I like winding down with a few intense rounds of **Apex Legends**.
 
