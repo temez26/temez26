@@ -12,7 +12,7 @@ I'm a Software Engineering graduate from **LAB University of Applied Sciences** 
 ### 🛠️ What I'm Working On
 
 - 🧩 Developing full-stack web applications using **Angular**, **React**, **Svelte**, and **Astro**
-- 📱 Building mobile apps with **React Native**
+- 📱 Building mobile apps with **React Native**, **Java**, and **Kotlin**
 - ☁️ Exploring **Azure**, **Docker**, **Kubernetes**, and **CI/CD pipelines**
 - 🤖 Creating automation solutions with **Blue Prism**, **UiPath**, and **Python-based LLMs**
 - 🎓 Completed a thesis on a self-hosted music streaming service using **Angular**, **Express**, **PostgreSQL**, and **Docker**
@@ -29,6 +29,9 @@ I'm a Software Engineering graduate from **LAB University of Applied Sciences** 
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)  
+
+**Mobile Development:**  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)  
 
 **Cloud & DevOps:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)  
@@ -67,4 +70,3 @@ I'm a Software Engineering graduate from **LAB University of Applied Sciences** 
 - 🎵 My thesis focused on building **Bmusic**, a self-hosted music streaming web app for home servers.
 - 💡 I enjoy creating full-stack solutions from scratch—whether it’s a tool for personal use or automating internal workflows.
 - 🕹️ I like winding down with a few intense rounds of **Apex Legends**.
-
