@@ -6,7 +6,7 @@
 ### About Me
 
 I'm a Software Engineer from **LAB University of Applied Sciences** specializing in **full-stack web development**.  
-I enjoy building modern web applications end-to-end, working across frontend, backend, databases, and deployment.  
+My main expertise is building web applications end-to-end, working across frontend, backend, databases, and deployment.  
 
 In addition to web development, I have experience in cloud infrastructure, CI/CD pipelines, mobile development, and process automation.
 
